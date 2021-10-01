@@ -11,5 +11,6 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="BzF-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="BzF-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"
 </div>
   
