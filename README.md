@@ -23,5 +23,6 @@
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:obarbozafarias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andrebzf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://www.reddit.com/user/AndreBzF" target="_blank"><img src="https://aleen42.github.io/badges/src/reddit.svg" target="_blank"></a> 
+  <a href="https://www.reddit.com/user/AndreBzF" target="_blank"><img src="https://aleen42.github.io/badges/src/reddit.svg" 
+target="_blank"></a> 
 </div>
