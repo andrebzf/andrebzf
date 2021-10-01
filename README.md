@@ -1,4 +1,4 @@
-### Ola_Mundo Eu sou o Andre👋
+### Ola_Mundo; Sou o Andre👋
 - 💻 1° Secretário de Comunicação e Marketing do CAMECA-UFSJ.
 - 🛠️ Estudante de Engenharia Mecatrônica.
 - 📚 Universidade Federal de São João Del-Rei.
