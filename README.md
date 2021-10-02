@@ -2,7 +2,7 @@
 - 💻 1° Secretário de Comunicação e Marketing do CAMECA-UFSJ.
 - 🛠️ Estudante de Engenharia Mecatrônica.
 - 📚 Universidade Federal de São João Del-Rei.
-- 📫 Contato: obarbozafarias@gmail.com
+- 📫 Contato: <a href = "mailto:obarbozafarias@gmail.com"
 - 🧠I.T.
 <div align="center">
   <a href="https://github.com/andrebzf">
