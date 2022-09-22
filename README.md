@@ -1,5 +1,5 @@
 ### Ola_Mundo Eu sou o Andre👋
-- 💻 1° Secretário de Comunicação e Marketing do CAMECA-UFSJ.
+- 💻 Data Science.
 - 🛠️ Estudante de Engenharia Mecatrônica.
 - 📚 Universidade Federal de São João Del-Rei.
 - 🧠I.T.
