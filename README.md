@@ -23,6 +23,8 @@
   <a href="https://www.linkedin.com/in/andrebzf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://github.com/andrebzf" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" 
 target="_blank"></a> 
+  <a href="http://lattes.cnpq.br/7942623659687505" target="_blank"><img src="https://img.shields.io/badge/Currículo Lattes-%23333?style=for-the-badge" 
+target="_blank"></a> 
     <a href="https://andrebzf.github.io/" target="_blank"><img src="https://img.shields.io/badge/Pagina Oficial-%23333?style=for-the-badge" 
 target="_blank"></a> 
 </div>
