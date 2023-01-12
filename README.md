@@ -3,11 +3,6 @@
 - 🛠️ Estudante de Engenharia Mecatrônica.
 - 📚 Universidade Federal de São João Del-Rei.
 - 🧠I.T.
-<div align="center">
-  <a href="https://github.com/andrebzf">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andrebzf&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrebzf&layout=compact&langs_count=7&theme=codeSTACKr"/>
-</div>
 <div style="display: inline_block"><br>
     <img align="center" alt="BzF-Win" heght="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
     <img align="center" alt="BzF-Win" heght="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
