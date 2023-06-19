@@ -1,8 +1,8 @@
-### Ola_Mundo Eu sou o Andre👋
+### Hello_World i'm Andre.👋
 - 💻 Data Science.
-- 🛠️ Estudante de Engenharia Mecatrônica.
-- 📚 Universidade Federal de São João Del-Rei.
-- 🧠I.T.
+- 🛠️ Mechatronics-Engineer Student.
+- 📚 Federal University of São João Del-Rei.
+- 🧠 "My mind, my world. My conscience, my intelligence".
 <div style="display: inline_block"><br>
     <img align="center" alt="BzF-Win" heght="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
     <img align="center" alt="BzF-Win" heght="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
