@@ -1,4 +1,4 @@
-### Hello_World i'm Andre.👋
+### Hello_World, i'm Andre.👋
 - 💻 Data Science.
 - 🛠️ Mechatronics-Engineer Student.
 - 📚 Federal University of São João Del-Rei.
